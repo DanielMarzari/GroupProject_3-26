@@ -1,0 +1,6 @@
+INSERT INTO Alumni VALUES 
+(NULL, 'Amanda ', ' George', 'MBA', 2012, 'https://www.linkedin.com/in/amanda-george-5b284835/', 'CVS', 'Greater Philadelphia Area', NULL, 'am024@cairn.edu', 'Elizabethtown college (no degree)', NULL, NULL, NULL),
+(NULL, 'Vanessa ', ' Dicks', 'MBA', 2018, 'https://www.linkedin.com/in/vanessa-dicks-90537796/', 'Transitions of Faith Hair Salon', 'Philadelphia', NULL, 'vd437@cairn.edu', NULL, NULL, NULL, NULL),
+(NULL, 'David ', ' Shaffer', 'BS in Bible, BS in Business Admininstration, MBA', 2017, 'https://www.linkedin.com/in/david-shaffer-fox/', 'Temple University', 'Philadelphia', NULL, 'ds512@cairn.edu', NULL, 'Intern at Fulton Financial Corporation', NULL, NULL),
+(NULL, 'Andrew ', ' Steege', 'MBA', 2015, 'https://www.linkedin.com/in/andrew-steege-mba-33749430/', 'DataBank IMX', 'Philadelphia', NULL, 'as829@cairn.edu', NULL, 'Intern at Adelphi Group', NULL, NULL),
+(NULL, 'Neil ', ' Gupta', 'BS in Business', 2009, 'https://www.linkedin.com/in/neilkgupta/', 'PowerObjects', 'Greater Philadelphia Area', NULL, 'ng010@cairn.edu', 'MBA from Saint Joseph`s University', NULL, NULL, NULL);
