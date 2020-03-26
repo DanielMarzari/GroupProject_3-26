@@ -3,7 +3,7 @@ CREATE TABLE Alumni (
 	FirstName VARCHAR(100) NOT NULL,
 	LastName VARCHAR(100) NOT NULL,
 	CairnDegree VARCHAR(255) NOT NULL,
-	GraduationDate DATE NOT NULL, 
+	GraduationYear INT NOT NULL, 
 	LinkedInURL VARCHAR(255) NOT NULL,
 	CurrentEmployment VARCHAR(255) NOT NULL,
 	Address VARCHAR(255),
@@ -12,5 +12,5 @@ CREATE TABLE Alumni (
 	OtherDegrees VARCHAR(255),
 	Internship VARCHAR(255),
 	SpeakingHistory VARCHAR(255),
-	Notes MEDIUMTEXT
+	Notes VARCHAR(255) -- shouldn't exceed 255 characters
 ) ENGINE InnoDB DEFAULT CHARSET=latin1;
